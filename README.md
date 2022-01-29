@@ -1,5 +1,4 @@
-# Roblox-Multi-Tool-Cookie-Logger-SkillFuel
-- Functions
+# Functions Roblox Multi Tools Skillfuel
 - Checker Cookie
 - Generator Cookie
 - Follow's Bot
@@ -10,4 +9,4 @@
 - Image Logger
 - Synapse X
 # Install Multi Tool
-Install Python
+- Install Python
